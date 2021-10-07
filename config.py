@@ -21,7 +21,7 @@ BOT_USERNAME = getenv("BOT_USERNAME", "ELrixXBot")
 ASSISTANT_NAME = getenv("ASSISTANT_NAME", "ElrixXAssistant")
 GROUP_SUPPORT = getenv("GROUP_SUPPORT", "Dramaa_Club")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "Sanki_BOTs")
-OWNER_NAME = getenv("OWNER_NAME", "Oo_Elrix") # isi dengan username kamu tanpa simbol @
+OWNER_NAME = getenv("OWNER_NAME", "MR_X_OP_BOLTE") # isi dengan username kamu tanpa simbol @
 DEV_NAME = getenv("DEV_NAME", "Oo_Elrix")
 PMPERMIT = getenv("PMPERMIT", None)
 
